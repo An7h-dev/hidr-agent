@@ -310,6 +310,7 @@ HIDR Agent is designed for legitimate cybersecurity testing and protection purpo
 - **Project Contributors**: [Lakshay Agarwal]
 - **Project Contributors**: [Ayush Gaur]
 - **Project Contributors**: [Ansh Pratap]
+- **Project Contributors**: [Paras varshney]
 
 ---
 
