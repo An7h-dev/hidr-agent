@@ -307,10 +307,9 @@ HIDR Agent is designed for legitimate cybersecurity testing and protection purpo
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@domain.com]
-- **GitHub**: [https://github.com/yourusername/hidr-agent]
-- **Security Issues**: [security@yourdomain.com]
+- **Project Contributors**: [Lakshay Agarwal]
+- **Project Contributors**: [Ayush Gaur]
+- **Project Contributors**: [Ansh Pratap]
 
 ---
 
