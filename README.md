@@ -48,7 +48,7 @@ HIDR Agent is a lightweight yet powerful endpoint detection and response (EDR) t
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hidr-agent.git
+   git clone https://github.com/SecuVortex/hidr-agent.git
    cd hidr-agent
    ```
 
