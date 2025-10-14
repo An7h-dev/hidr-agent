@@ -2,7 +2,7 @@
 
 A comprehensive, real-time cybersecurity solution for Windows that detects, prevents, and responds to malicious activities including malware, ransomware, keyloggers, and advanced persistent threats (APTs).
 
-## 🛡️ Overview
+## v 🛡️ Overview
 
 HIDR Agent is a lightweight yet powerful endpoint detection and response (EDR) tool designed for real-time threat monitoring and automated incident response. It combines behavioral analysis, file integrity monitoring, process surveillance, and automated quarantine capabilities to provide enterprise-grade security for Windows systems.
 
